@@ -1,0 +1,2 @@
+# scrapyMongoDB
+Simple Scrapy MongoDB
